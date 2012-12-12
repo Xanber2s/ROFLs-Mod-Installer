@@ -11,15 +11,19 @@ Usage:
 Note: Mods have to be installed in order, e.g. Modloader, then forge, then whatever you want
 !!
 
-Planned Features:
 
-[1.2]
-Ability to automaticly update
+Planned Features:
 
 [1.3]
 Plugins implemented
 Source for program and plugins provided
+
+
+
 Changelog:
+
+[1.2]
+Ability to automaticly update
 
 [1.1] 
 Added descriptions and pictures
